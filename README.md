@@ -34,12 +34,16 @@ Bash
 
 git clone https://github.com/lokipwn/escaner_puertos.git
 cd escaner_puertos
+
 2. Ejecutar el script
 Bash
 
 python port_dominio_scanner.py
+
 3. Interacción con el programa
 Una vez que el script se ejecute, serás guiado a través de un menú interactivo.
+
+<img width="255" height="40" alt="image" src="https://github.com/user-attachments/assets/4a96e9e8-475c-43d4-9f83-b634c0a1c597" />
 
 Ingresa el host: Introduce la dirección IP o el dominio que deseas escanear.
 
@@ -51,8 +55,13 @@ Seleccione una opción:
 [2] Escanear rango personalizado
 [3] Escanear puerto específico
 [4] Salir
+
+<img width="258" height="98" alt="image" src="https://github.com/user-attachments/assets/ff117e74-cd15-4014-9fc5-ab1b3fe0e6ec" />
+
 4. Ejemplos
 Escaneo de Puertos Comunes:
+
+<img width="266" height="69" alt="image" src="https://github.com/user-attachments/assets/461bcfcd-bee0-4109-963c-a013706e88fd" />
 
 [+] Opción: 1
 ...
